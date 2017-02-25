@@ -1,0 +1,119 @@
+2013-11-27 01:15:28 GUI:ViewModeSwitch:Unexistent->Windowed
+2013-11-27 01:15:28 DspStat:0:VMS_STOPPED
+2013-11-27 01:15:29 DspStat:509:VMS_STARTING
+2013-11-27 01:19:36 GuestOSDetails: OSVersion: 6.2.9200 ServicePack: 0.0; SuiteMask: 0x100; ProductType: 1; ProductEdition: 103; OSArch: 64
+2013-11-27 01:19:59 DspStat:509:VMS_RUNNING
+2013-11-27 01:19:59 DspStat:509:VMS_RUNNING
+2013-11-27 01:20:07 GuestOSDetails: OSVersion: 6.2.9200 ServicePack: 0.0; SuiteMask: 0x100; ProductType: 1; ProductEdition: 103; OSArch: 64
+2013-11-27 01:20:10 GUI:ViewModeSwitch:Windowed->Coherence
+2013-11-27 01:21:26 GUI:ViewModeSwitch:Coherence->Windowed
+2013-11-27 01:21:45 GUI:ViewModeSwitch:Windowed->Full Screen
+2013-11-27 01:23:05GuestAppAction:Launch:Internet Explorer:0.10.9200.16384
+2013-11-27 01:24:11GuestAppAction:Close:Internet Explorer:0.10.9200.16384
+2013-11-27 01:25:29GuestAppAction:Launch:Windows Installer:1.6.7600.16385
+2013-11-27 01:25:39GuestAppAction:Close:Windows Installer:1.6.7600.16385
+2013-11-27 01:25:40GuestAppAction:Launch:Windows Installation and Setup:1.6.7600.16385
+2013-11-27 01:26:09GuestAppAction:Close:Windows Installation and Setup:1.6.7600.16385
+2013-11-27 01:26:09GuestAppAction:Launch:Windows Installation and Setup:1.6.7600.16385
+2013-11-27 01:26:13GuestAppAction:Close:Windows Installation and Setup:1.6.7600.16385
+2013-11-27 01:26:13GuestAppAction:Launch:Windows Installer:1.6.7600.16385
+2013-11-27 01:26:18GuestAppAction:Close:Windows Installer:1.6.7600.16385
+2013-11-27 01:26:39 DspStat:509:VMS_RUNNING
+2013-11-27 01:26:39 DspStat:509:VMS_STOPPING
+2013-11-27 01:26:39 DspStat:509:VMS_STOPPING
+2013-11-27 01:26:41 GUI:ViewModeSwitch:Full Screen->Windowed
+2013-11-27 01:26:53 DspStat:0:VMS_STOPPED
+2013-11-27 01:26:54 DspStat:665:VMS_STARTING
+2013-11-27 01:26:54 GUI:ViewModeSwitch:Windowed->Full Screen
+2013-11-27 01:29:21 DspStat:665:VMS_RUNNING
+2013-11-27 01:29:21 DspStat:665:VMS_RUNNING
+2013-11-27 01:31:32 DspStat:665:VMS_RUNNING
+2013-11-27 01:31:32 DspStat:665:VMS_RUNNING
+2013-11-27 01:33:38 GUI:ViewModeSwitch:Full Screen->Windowed
+2013-11-27 01:34:07 GUI:ViewModeSwitch:Windowed->Full Screen
+2013-11-27 01:36:33 GUI:ViewModeSwitch:Full Screen->Windowed
+2013-11-27 01:44:08 GUI:ViewModeSwitch:Windowed->Full Screen
+2013-11-27 02:28:30 DspStat:665:VMS_RUNNING
+2013-11-27 02:28:30 DspStat:665:VMS_STOPPING
+2013-11-27 02:28:30 DspStat:665:VMS_STOPPING
+2013-11-27 02:28:32 GUI:ViewModeSwitch:Full Screen->Unexistent
+2013-11-30 10:49:47 GUI:ViewModeSwitch:Unexistent->Windowed
+2013-11-30 10:52:06 DspStat:0:VMS_STOPPED
+2013-11-30 10:52:07 DspStat:552:VMS_STARTING
+2013-11-30 10:52:08 GUI:ViewModeSwitch:Windowed->Full Screen
+2013-11-30 10:52:25 DspStat:552:VMS_RUNNING
+2013-11-30 10:52:25 DspStat:552:VMS_RUNNING
+2013-11-30 10:53:37 GUI:ViewModeSwitch:Full Screen->Windowed
+2013-11-30 10:54:16 DspStat:552:VMS_RUNNING
+2013-11-30 10:54:16 DspStat:552:VMS_RUNNING
+2013-11-30 10:56:55 GUI:ViewModeSwitch:Windowed->Full Screen
+2013-11-30 11:08:53 GUI:ViewModeSwitch:Full Screen->Windowed
+2013-11-30 11:08:55 DspStat:552:VMS_RUNNING
+2013-11-30 11:08:55 DspStat:552:VMS_RUNNING
+2013-11-30 11:09:03 DspStat:552:VMS_RUNNING
+2013-11-30 11:09:03 DspStat:552:VMS_SUSPENDING
+2013-11-30 11:09:03 DspStat:552:VMS_SUSPENDING
+2013-11-30 11:09:03 DspStat:552:VMS_SUSPENDING_SYNC
+2013-11-30 11:09:04 GUI:ViewModeSwitch:Windowed->Unexistent
+2013-11-30 11:09:06 GUI:ViewModeSwitch:Unexistent->Windowed
+2013-11-30 11:20:41 DspStat:0:VMS_STOPPED
+2013-11-30 11:20:42 DspStat:799:VMS_STARTING
+2013-11-30 11:21:16 GUI:ViewModeSwitch:Windowed->Full Screen
+2013-11-30 11:25:21 DspStat:799:VMS_RUNNING
+2013-11-30 11:25:21 DspStat:799:VMS_RUNNING
+2013-11-30 11:29:18 DspStat:799:VMS_RUNNING
+2013-11-30 11:29:18 DspStat:799:VMS_RUNNING
+2013-11-30 11:30:49 DspStat:799:VMS_RUNNING
+2013-11-30 11:30:49 DspStat:799:VMS_RUNNING
+2013-11-30 11:33:22 GUI:ViewModeSwitch:Full Screen->Windowed
+2013-11-30 11:35:34 DspStat:799:VMS_RUNNING
+2013-11-30 11:35:35 DspStat:799:VMS_STOPPING
+2013-11-30 11:35:35 DspStat:799:VMS_STOPPING
+2013-11-30 11:38:04 DspStat:0:VMS_STOPPED
+2013-11-30 11:38:05 DspStat:942:VMS_STARTING
+2013-11-30 11:38:05 GUI:ViewModeSwitch:Windowed->Full Screen
+2013-11-30 11:40:39 GUI:ViewModeSwitch:Full Screen->Windowed
+2013-11-30 11:40:59 ParallelsToolsSetup:Install:Start::9.0.23350.941886:0 
+2013-11-30 11:41:25 GuestOSDetails: OSVersion: 6.0.6000 ServicePack: 0.0; SuiteMask: 0x300; ProductType: 1; ProductEdition: 2; OSArch: 64
+2013-11-30 11:41:40 ParallelsToolsSetup:Install:Success::9.0.23350.941886:0 
+2013-11-30 11:41:48 DspStat:942:VMS_RUNNING
+2013-11-30 11:41:48 DspStat:942:VMS_RUNNING
+2013-11-30 11:41:48 GUI:ViewModeSwitch:Windowed->Full Screen
+2013-11-30 11:42:19 GuestOSDetails: OSVersion: 6.0.6000 ServicePack: 0.0; SuiteMask: 0x300; ProductType: 1; ProductEdition: 2; OSArch: 64
+2013-11-30 11:52:28 GUI:ViewModeSwitch:Full Screen->Windowed
+2013-11-30 11:59:23 GUI:ViewModeSwitch:Windowed->Full Screen
+2013-11-30 12:10:16 DspStat:942:VMS_RUNNING
+2013-11-30 12:10:16 DspStat:942:VMS_RUNNING
+2013-11-30 12:10:46 GuestOSDetails: OSVersion: 6.0.6000 ServicePack: 0.0; SuiteMask: 0x300; ProductType: 1; ProductEdition: 2; OSArch: 64
+2013-11-30 12:11:25 DspStat:942:VMS_RUNNING
+2013-11-30 12:11:25 DspStat:942:VMS_RUNNING
+2013-11-30 12:11:57 GuestOSDetails: OSVersion: 6.0.6000 ServicePack: 0.0; SuiteMask: 0x300; ProductType: 1; ProductEdition: 2; OSArch: 64
+2013-11-30 12:18:01 DspStat:942:VMS_RUNNING
+2013-11-30 12:18:01 DspStat:942:VMS_RUNNING
+2013-11-30 12:18:32 GuestOSDetails: OSVersion: 6.0.6001 ServicePack: 1.0; SuiteMask: 0x300; ProductType: 1; ProductEdition: 2; OSArch: 64
+2013-11-30 13:31:35 DspStat:942:VMS_RUNNING
+2013-11-30 13:31:36 DspStat:942:VMS_STOPPING
+2013-11-30 13:31:36 DspStat:942:VMS_STOPPING
+2013-11-30 13:31:38 GUI:ViewModeSwitch:Full Screen->Windowed
+2013-11-30 13:32:00 GUI:ViewModeSwitch:Windowed->Unexistent
+2013-12-01 06:40:38 GUI:ViewModeSwitch:Unexistent->Windowed
+2013-12-01 06:40:39 DspStat:0:VMS_STOPPED
+2013-12-01 06:40:40 DspStat:445:VMS_STARTING
+2013-12-01 06:40:40 GUI:ViewModeSwitch:Windowed->Full Screen
+2013-12-01 06:41:03 GuestOSDetails: OSVersion: 6.0.6001 ServicePack: 1.0; SuiteMask: 0x300; ProductType: 1; ProductEdition: 2; OSArch: 64
+2013-12-01 15:06:40 DspStat:445:VMS_RUNNING
+2013-12-01 15:06:40 DspStat:445:VMS_RUNNING
+2013-12-01 15:07:13 GuestOSDetails: OSVersion: 6.0.6001 ServicePack: 1.0; SuiteMask: 0x300; ProductType: 1; ProductEdition: 2; OSArch: 64
+2013-12-01 15:30:33 DspStat:445:VMS_RUNNING
+2013-12-01 15:30:33 DspStat:445:VMS_STOPPING
+2013-12-01 15:30:33 DspStat:445:VMS_STOPPING
+2013-12-01 15:30:35 GUI:ViewModeSwitch:Full Screen->Unexistent
+2013-12-01 22:47:56 GUI:ViewModeSwitch:Unexistent->Windowed
+2013-12-01 22:47:56 DspStat:0:VMS_STOPPED
+2013-12-01 22:47:57 DspStat:450:VMS_STARTING
+2013-12-01 22:47:57 GUI:ViewModeSwitch:Windowed->Full Screen
+2013-12-01 22:48:21 GuestOSDetails: OSVersion: 6.0.6001 ServicePack: 1.0; SuiteMask: 0x300; ProductType: 1; ProductEdition: 2; OSArch: 64
+2013-12-02 01:03:45 DspStat:450:VMS_RUNNING
+2013-12-02 01:03:46 DspStat:450:VMS_STOPPING
+2013-12-02 01:03:46 DspStat:450:VMS_STOPPING
+2013-12-02 01:03:48 GUI:ViewModeSwitch:Full Screen->Unexistent

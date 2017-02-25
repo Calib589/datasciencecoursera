@@ -1,0 +1,64 @@
+[19878.995] **** Validating Game Database *****
+[19879.583] Performing Localization Checks
+[19879.583] Checking Tag Format...
+[19879.583] Note: Tags must only use [A-Z_] characters, start with 'TXT_KEY_', and be under 128 characters long.
+[19879.591] Validating UnitGameplay2DScripts
+[19879.591] **** Validation Success *****
+[19879.591] Validation Took 0.595634 seconds
+[19879.925] **** Validating Prefetch Process *****
+[19879.926] **** Validation Success *****
+[19879.926] SetGlobalActionInfo
+[19879.926] 
+-- SQLite Memory Statistics --
+Memory Usage:
+		[Cur]		[Max]
+Malloc:		4988168		11760556
+PageCache:	6		12
+LookAside:	0		0
+Scratch:	0		1
+
+Static Buffer Overflows:
+		[TooLarge]	[NoSpace]
+PageCache:	4597280		8834660
+Scratch:	0		0
+
+Largest Allocations:
+Malloc:		130560
+PageCache:	1172
+Scratch:	5128
+
+Prepared Statements:
+Current:		6
+------------------------------
+[19879.953] **** Validating Game Database *****
+[19880.538] Performing Localization Checks
+[19880.538] Checking Tag Format...
+[19880.538] Note: Tags must only use [A-Z_] characters, start with 'TXT_KEY_', and be under 128 characters long.
+[19880.546] Validating UnitGameplay2DScripts
+[19880.546] **** Validation Success *****
+[19880.546] Validation Took 0.593463 seconds
+[19880.855] **** Validating Prefetch Process *****
+[19880.855] **** Validation Success *****
+[19880.855] SetGlobalActionInfo
+[19880.856] 
+-- SQLite Memory Statistics --
+Memory Usage:
+		[Cur]		[Max]
+Malloc:		4989360		11760556
+PageCache:	6		12
+LookAside:	0		0
+Scratch:	0		1
+
+Static Buffer Overflows:
+		[TooLarge]	[NoSpace]
+PageCache:	4598460		8834660
+Scratch:	0		0
+
+Largest Allocations:
+Malloc:		130560
+PageCache:	1172
+Scratch:	5128
+
+Prepared Statements:
+Current:		6
+------------------------------
